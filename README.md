@@ -8,6 +8,6 @@ Here it is specilized to modify G-code, and it is integrated on Notepad++, for m
 
 
 -  More infos about engraving and how install and use this toolchain here: 
-        https://cdn.thingiverse.com/assets/16/48/b3/e0/d2/HOWTO_text_en.pdf
+        https://cdn.thingiverse.com/assets/16/48/b3/e0/d2/HOWTO_text_en.pdf (§5 Toolchain)
 -  More infos about regexfilter.java: 
         https://github.com/msillano/regexfilter
